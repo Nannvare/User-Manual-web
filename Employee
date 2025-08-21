@@ -1,0 +1,118 @@
+	<section id="Employee">
+				<div class="page-header"><h3>Employee</h3><hr class="notop"></div>
+
+				<section id="Attendance">
+					<div class="page-header">
+						<h3>Attendance</h3>
+						<hr class="notop">
+					</div>
+
+					<section id="Employee_Attendance">
+						<div class="heading">
+							<h1>Attendance</h1>
+						</div>
+					</section>
+
+					<section id="Manual_Attendance">
+						<div class="heading">
+							<h1>Manual Attendance</h1>
+						</div>
+					</section>
+
+					<section id="Day_Summary">
+						<div class="heading">
+							<h1>Day Summary</h1>
+						</div>
+					</section>
+
+					<section id="Attendance_Detail">
+						<div class="heading">
+							<h1>Attendance Detail</h1>
+						</div>
+					</section>
+
+				</section>
+
+				<section id="Tracking">
+					<div class="page-header">
+						<h3>Tracking</h3>
+						<hr class="notop">
+					</div>
+
+					<section id="Live_Tracking">
+						<div class="heading">
+							<h1>Live Feed</h1>
+						</div>
+					</section>
+
+					<section id="Employee_Tracking">
+						<div class="heading">
+							<h1>Tracking</h1>
+						</div>
+					</section>
+
+					<section id="Tracking_Report">
+						<div class="heading">
+							<h1>Tracking Report</h1>
+						</div>
+					</section>
+
+				</section>
+
+				<section id="Expense">
+					<div class="page-header">
+						<h3>Expense</h3>
+						<hr class="notop">
+					</div>
+
+					<section id="Employee_Expense">
+						<div class="heading">
+							<h1>Expense</h1>
+						</div>
+					</section>
+
+					<section id="Generate_ExpenseClaim">
+						<div class="heading">
+							<h1>Generate Expense Claim</h1>
+						</div>
+					</section>
+				</section>
+
+				<section id="Leave">
+					<div class="page-header">
+						<h3>Leave</h3>
+						<hr class="notop">
+					</div>
+
+					<section id="Employee_Leave">
+						<div class="heading">
+							<h1>Leave</h1>
+						</div>
+					</section>
+				</section>
+
+				<section id="Party_Visit">
+					<div class="page-header">
+						<h3>Party Visit</h3>
+						<hr class="notop">
+					</div>
+
+					<section id="Party_Visit_Master">
+						<div class="heading">
+							<h1>Party Visit Master</h1>
+						</div>
+					</section>
+
+					<section id="Party_Visit_OnMap">
+						<div class="heading">
+							<h1>Party Visit On Map</h1>
+						</div>
+					</section>
+
+					<section id="New_PartyVisit">
+						<div class="heading">
+							<h1>New Party Visit Master</h1>
+						</div>
+					</section>
+				</section>
+			</section>
