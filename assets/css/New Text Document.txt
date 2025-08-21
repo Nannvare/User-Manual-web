@@ -1,0 +1,12 @@
+	<!--  -->
+
+	<style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; color: #222; background:#f8f9fa; }
+    h1, h2, h3 { color: #0b3b86; }
+    section { background:#fff; border:1px solid #ddd; border-radius:8px; padding:20px; margin-bottom:20px; }
+    ul { margin: 8px 0 8px 20px; }
+    strong { color:#0b5fff; }
+    img { margin-top:10px; border:1px solid #ccc; border-radius:6px; max-width:100%; }
+    .note { background:#eef2ff; padding:8px 12px; border-left:4px solid #4f46e5; margin:12px 0; }
+  	</style>
+	<!--  -->
